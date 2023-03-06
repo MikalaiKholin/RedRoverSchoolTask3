@@ -6,7 +6,7 @@ public class Main {
 
         if (a < b) System.out.println("a < b");
         if (a > b) System.out.println("a > b");
-        if (a == b)  System.out.println("a > b");
+        if (a == b) System.out.println("a > b");
 
         if ( (a + b) % 2 == 0) {System.out.println("maybe a and b are even");}
                 else {System.out.println("some variable is odd");}
