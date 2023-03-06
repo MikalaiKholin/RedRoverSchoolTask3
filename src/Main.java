@@ -9,7 +9,6 @@ public class Main {
 
         if ( (a + b) % 2 == 0) {System.out.println("maybe a and b are even");}
                 else {System.out.println("some variable is odd");}
-
                 
         if (a > 10) System.out.println("a > 10");
         if (a < 100) System.out.println("a < 100");
